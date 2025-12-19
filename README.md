@@ -17,13 +17,9 @@
 </div>
 
 <hr/>
-
 <!-- Tech GIF -->
-<img
-  align="right"
-  height="150"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
+<img align="right" height="100" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
 
 <!-- Tech Stack -->
 <h3 align="left">🛠 Tech Stack</h3>
@@ -77,31 +73,27 @@
 <!-- Contact Section -->
 <h3 align="left">🌐 Connect with me</h3>
 
-<div align="left">
+<table cellspacing="10">
+  <tr>
+    <td>
+      <a href="mailto:ornabbiswass@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/ornab-biswass" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://ornab.netlify.app" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white" height="36"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="mailto:ornabbiswass@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-ornabbiswass%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white"
-      height="40"
-    />
-  </a>
-
-  <a href="https://linkedin.com/in/ornab-biswass" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Ornab%20Biswass-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="40"
-    />
-  </a>
-
-  <a href="https://ornabbiswass.netlify.app" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-View%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white"
-      height="40"
-    />
-  </a>
-
-</div>
-
+<br>
 <hr/>
 
 <!-- Career Focus -->
@@ -118,8 +110,7 @@
 <hr/>
 
 <!-- Snake Animation -->
-<!-- GitHub Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Contribution Snake">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/Ornab95/Ornab95/output/snake.svg"
+  alt="Snake animation"
+/>
