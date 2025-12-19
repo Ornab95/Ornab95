@@ -118,7 +118,8 @@
 <hr/>
 
 <!-- Snake Animation -->
-<img
-  src="https://raw.githubusercontent.com/Ornab95/Ornab95/output/snake.svg"
-  alt="Snake animation"
-/>
+<!-- GitHub Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Contribution Snake">
+</picture>
